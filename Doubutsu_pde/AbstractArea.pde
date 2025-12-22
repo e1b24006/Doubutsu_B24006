@@ -3,7 +3,6 @@ abstract class AbstractArea {
   int posY;
   int tate;
   int yoko;
-  
   AbstractArea(int posX, int posY, int yoko, int tate) {
     this.posX = posX;
     this.posY = posY;
